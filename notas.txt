@@ -1,0 +1,6 @@
+--paquetes---
+
+instalaremos el paquete django-environ
+-este paquete permitira leer variables de configuracion
+-luego lo importaremos en el setting global y lo configuraremofa-spin
+------------------------------------------
